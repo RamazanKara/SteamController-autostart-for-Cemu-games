@@ -1,4 +1,4 @@
-Starts SC Gyro and the cemu game, closes sc gyro when you close the game. Uses the steam-gyro-for-cemuhook.
+Starts the SC Gyro Hook and the cemu game, closes sc gyro when you close the game. Uses the steam-gyro-for-cemuhook.
 
 
 If you are lazy, use the already compiled exe file:
