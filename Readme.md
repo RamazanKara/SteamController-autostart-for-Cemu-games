@@ -1,5 +1,10 @@
+# SteamController autostart for CEMU games 
+
+## Description
+
 Starts the SC Gyro Hook and the cemu game, closes sc gyro when you close the game. Uses the steam-gyro-for-cemuhook.
 
+## Installation
 
 If you are lazy, use the already compiled exe file:
 - Get this https://github.com/FrogTheFrog/steam-gyro-for-cemuhook/releases and place it in the same folder as cemu.
@@ -8,7 +13,7 @@ If you are lazy, use the already compiled exe file:
 - add the exe as "Non-Steam game" on Steam
 - start the game from big picture Steam UI Library
 
-Installation for the batch file:
+## Installation for the batch file
 
 - Get this https://github.com/FrogTheFrog/steam-gyro-for-cemuhook/releases and place it in the same folder as cemu.
 - edit the batch file with your favourite editor and change the "c:\games\1.rpx" path to the path of your game
